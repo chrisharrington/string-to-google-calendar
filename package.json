@@ -1,0 +1,19 @@
+{
+  "name": "string-to-google-calendar",
+  "version": "1.0.0",
+  "description": "A utility to take a natural language string and create an appropriate Google Calendar event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisharrington/string-to-google-calendar.git"
+  },
+  "author": "Chris Harrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisharrington/string-to-google-calendar/issues"
+  },
+  "homepage": "https://github.com/chrisharrington/string-to-google-calendar#readme"
+}
